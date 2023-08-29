@@ -1,4 +1,4 @@
-# unix_hex_dates_explorer_script
+# Unix hex dates explorer
 This script searches for date values within a hexadecimal string input. It looks for sequences of 4 bytes (32 bits) in both little endian and big endian formats. Dates are then converted and displayed in the "d-m-Y H:M" format, alongside the corresponding hexadecimal substrings from where they were extracted.
 
 Usage:
